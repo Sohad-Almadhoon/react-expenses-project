@@ -1,0 +1,13 @@
+.filter {
+  display: flex;
+  justify-content: end;
+  margin-top: 1rem;
+}
+select {
+  outline: none;
+  padding: 5px 20px;
+  border: none;
+  font-size: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+}

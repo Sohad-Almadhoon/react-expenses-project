@@ -1,0 +1,11 @@
+.date {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  border: 2px solid #111;
+  width: fit-content;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 1.3rem;
+  color: purple;
+}
